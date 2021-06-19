@@ -1,0 +1,2 @@
+# Repo purpose
+Studying rust
